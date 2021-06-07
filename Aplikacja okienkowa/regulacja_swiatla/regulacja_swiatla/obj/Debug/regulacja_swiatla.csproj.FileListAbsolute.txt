@@ -1,0 +1,9 @@
+C:\Users\skibi\OneDrive\Dokumenty\AiR\semestr V\SMprojekt_________________-\Aplikacja okienkowa\regulacja_swiatla\regulacja_swiatla\bin\Debug\regulacja_swiatla.exe.config
+C:\Users\skibi\OneDrive\Dokumenty\AiR\semestr V\SMprojekt_________________-\Aplikacja okienkowa\regulacja_swiatla\regulacja_swiatla\bin\Debug\regulacja_swiatla.exe
+C:\Users\skibi\OneDrive\Dokumenty\AiR\semestr V\SMprojekt_________________-\Aplikacja okienkowa\regulacja_swiatla\regulacja_swiatla\bin\Debug\regulacja_swiatla.pdb
+C:\Users\skibi\OneDrive\Dokumenty\AiR\semestr V\SMprojekt_________________-\Aplikacja okienkowa\regulacja_swiatla\regulacja_swiatla\obj\Debug\regulacja_swiatla.csprojAssemblyReference.cache
+C:\Users\skibi\OneDrive\Dokumenty\AiR\semestr V\SMprojekt_________________-\Aplikacja okienkowa\regulacja_swiatla\regulacja_swiatla\obj\Debug\regulacja_swiatla.Properties.Resources.resources
+C:\Users\skibi\OneDrive\Dokumenty\AiR\semestr V\SMprojekt_________________-\Aplikacja okienkowa\regulacja_swiatla\regulacja_swiatla\obj\Debug\regulacja_swiatla.csproj.GenerateResource.cache
+C:\Users\skibi\OneDrive\Dokumenty\AiR\semestr V\SMprojekt_________________-\Aplikacja okienkowa\regulacja_swiatla\regulacja_swiatla\obj\Debug\regulacja_swiatla.exe
+C:\Users\skibi\OneDrive\Dokumenty\AiR\semestr V\SMprojekt_________________-\Aplikacja okienkowa\regulacja_swiatla\regulacja_swiatla\obj\Debug\regulacja_swiatla.pdb
+C:\Users\skibi\OneDrive\Dokumenty\AiR\semestr V\SMprojekt_________________-\Aplikacja okienkowa\regulacja_swiatla\regulacja_swiatla\obj\Debug\regulacja_swiatla.Form1.resources
